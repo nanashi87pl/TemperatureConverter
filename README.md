@@ -6,7 +6,6 @@ Converts temperature from one scale to another
 
 
 Zadanie: konwerter temperatur
-=============================
 
 Utwórz stronę przy użyciu HTML, CSS i PHP, która będzie służyć do konwersji temperatury między stopniami Celsjusza, Fahrenheita oraz kelwinami.
 Na stronie powinien znaleźć się formularz do wpisania wartości temperatury w wybranej jednostce oraz wyboru jednostki docelowej.
