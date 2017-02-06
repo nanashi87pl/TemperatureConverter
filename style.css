@@ -1,0 +1,28 @@
+
+.main {
+	margin: 200px;
+}
+
+.scale {
+	float: left;
+	margin: 20px;
+	margin-left: 0;
+}
+
+.submit {
+	clear: both;
+}
+
+.main>div,
+form>div {
+	margin: 10px;
+}
+
+.outer {
+  width: 100%;
+  text-align: center;
+}
+
+.inner {
+  display: inline-block;
+}
